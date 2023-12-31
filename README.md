@@ -8,3 +8,5 @@
 - TypeScript
   - React
   - Next.js
+- Terraform
+  - AWS

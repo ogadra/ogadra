@@ -7,6 +7,8 @@
 - JavaScript
 - TypeScript
   - React
+  - React Router
   - Next.js
 - Terraform
   - AWS
+- Nix

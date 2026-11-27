@@ -1,4 +1,4 @@
-![icon](https://media.ogadra.com/misskey/drive/b7f08bb1-df92-45c3-855d-521eb9859015.gif)
+![icon](https://media.ogadra.com/misskey/drive/eb4d0e37-3c1b-4575-9cb0-12085fc72bbf.png)
 # Profile
 
 ## Use Language
